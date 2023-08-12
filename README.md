@@ -548,7 +548,7 @@ merge nodes w/o dup: `42`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `547`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `31`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
-- [free.iam7.tk/clash](https://free.iam7.tk/clash), number of nodes: `599`
+- [free.iam7.tk/clash](https://free.iam7.tk/clash), number of nodes: `607`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
 
 ## Softwares
