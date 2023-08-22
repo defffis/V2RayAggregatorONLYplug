@@ -521,7 +521,7 @@ high-speed node quantity: `200`
 - you can import these 200 tested nodes using their subscription link into different clients. refer to `Instructions & Usage` section
 
 ### all nodes
-merge nodes w/o dup: `42`
+merge nodes w/o dup: `45`
 - [Node link Mixed (V2ray)](https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/sub_merge.txt)
 - [Node link Yaml (Clash)](https://raw.githubusercontent.com/mahdibland/SSAggregator/master/sub/sub_merge_yaml.yml)
 
@@ -544,9 +544,11 @@ merge nodes w/o dup: `42`
 
 
 ### node sources
-- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `785`
-- [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `544`
+- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `801`
+- [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `560`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
+- [free.iam7.tk/clash](https://free.iam7.tk/clash), number of nodes: `802`
+- [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `708`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
 
 ## Softwares
