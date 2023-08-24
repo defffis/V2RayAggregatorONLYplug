@@ -548,7 +548,7 @@ merge nodes w/o dup: `48`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `573`
 - [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `43`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
-- [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `462`
+- [sub.pmsub.me/base64](https://sub.pmsub.me/base64), number of nodes: `457`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
 
 ## Softwares
