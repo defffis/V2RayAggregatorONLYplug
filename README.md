@@ -544,7 +544,7 @@ merge nodes w/o dup: `44`
 
 
 ### node sources
-- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `784`
+- [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `998`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `578`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
