@@ -17,20 +17,7 @@ dns:
   - https://dns.google/dns-query
   - tls://dns.google:853
 proxies:
-- name: 🇨🇳CN-183.249.20.192-004 | 16.421MB
-  server: scloud15.jafiyun.world
-  port: 22015
-  type: trojan
-  password: 5ec26f4c-f54e-37f9-869a-4dfe57754cb1
-  sni: scloud15.jafiyun.world
-  skip-cert-verify: false
-- name: 🇨🇳CN-183.249.20.192-005 | 9.799MB
-  server: scloud16.jafiyun.world
-  port: 22016
-  type: trojan
-  password: 5ec26f4c-f54e-37f9-869a-4dfe57754cb1
-  sni: scloud16.jafiyun.world
-  skip-cert-verify: false
+- null
 proxy-groups:
 - name: Global ©️
   type: select
@@ -105,7 +92,6 @@ proxy-groups:
   interval: 300
   tolerance: 100
   proxies:
-  - 🇨🇳CN-183.249.20.192-004 | 16.421MB
-  - 🇨🇳CN-183.249.20.192-005 | 9.799MB
+  - DIRECT
 rules:
 - MATCH,Global ©️
