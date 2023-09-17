@@ -547,6 +547,7 @@ merge nodes w/o dup: `43`
 - [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg), number of nodes: `15`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `1114`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `583`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `247`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
 
