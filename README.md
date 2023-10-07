@@ -544,10 +544,10 @@ merge nodes w/o dup: `42`
 
 
 ### node sources
-- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `16`
+- [ermaozi/get_subscribe](https://github.com/ermaozi/get_subscribe), number of nodes: `20`
 - [clash.221207.xyz/pubclashyaml](https://clash.221207.xyz/pubclashyaml), number of nodes: `908`
 - [tbbatbb/Proxy](https://github.com/tbbatbb/Proxy), number of nodes: `459`
-- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `16`
+- [mfuu/v2ray](https://github.com/mfuu/v2ray), number of nodes: `20`
 - [adminaliang/v2ray](https://github.com/adminaliang/v2ray), number of nodes: `16`
 - [hermanb001/ProxyTest](https://github.com/hermanb001/ProxyTest), number of nodes: `125`
 
